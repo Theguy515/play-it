@@ -54,7 +54,7 @@ TextureImporter:
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
-  spriteMeshType: 1
+  spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 32
@@ -246,7 +246,7 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -255,6 +255,28 @@ TextureImporter:
       bones: []
       spriteID: 1fc688747faa649dbba1ba477296d02b
       internalID: -2087378046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: temp_player_tile
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 543
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523b3ddef53ad49f0a3849a9414a11ad
+      internalID: -2087594022
       vertices: []
       indices: 
       edges: []
@@ -278,6 +300,7 @@ TextureImporter:
       floor_tile: -7556140064182284360
       left_wall_tile: -1085390142
       right_wall_tile: -530610890
+      temp_player_tile: -2087594022
       void_tile: 1909743447
       wall_tile: 4012135017574298484
   mipmapLimitGroupName: 
