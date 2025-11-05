@@ -118,8 +118,12 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
-      physicsShape: []
-      tessellationDetail: -1
+      physicsShape:
+      - - {x: 16, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+      tessellationDetail: 0
       bones: []
       spriteID: 8bf415155a2332790800000000000000
       internalID: -7556140064182284360
@@ -140,8 +144,12 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
-      physicsShape: []
-      tessellationDetail: -1
+      physicsShape:
+      - - {x: 16, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+      tessellationDetail: 0
       bones: []
       spriteID: 473fb619a87fda730800000000000000
       internalID: 4012135017574298484
@@ -162,8 +170,12 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
-      physicsShape: []
-      tessellationDetail: -1
+      physicsShape:
+      - - {x: 16, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+      tessellationDetail: 0
       bones: []
       spriteID: 19f45ff6ba2255880800000000000000
       internalID: -8622947791817846895
@@ -184,7 +196,11 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
-      physicsShape: []
+      physicsShape:
+      - - {x: 16, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
       tessellationDetail: 0
       bones: []
       spriteID: e80eaac648232469395e725921f8e57f
@@ -206,7 +222,11 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
-      physicsShape: []
+      physicsShape:
+      - - {x: 16, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
       tessellationDetail: 0
       bones: []
       spriteID: 57c53ee18c558443396fc62a8cfdfc54
@@ -228,7 +248,11 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
-      physicsShape: []
+      physicsShape:
+      - - {x: 16, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
       tessellationDetail: 0
       bones: []
       spriteID: 51b5984cc78744e4ab9907985d4888f6
@@ -250,7 +274,11 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
-      physicsShape: []
+      physicsShape:
+      - - {x: 16, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
       tessellationDetail: 0
       bones: []
       spriteID: 1fc688747faa649dbba1ba477296d02b
@@ -268,15 +296,156 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 16, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523b3ddef53ad49f0a3849a9414a11ad
+      internalID: -2087594022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant_tile
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 502
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 7, y: -12}
+        - {x: 6, y: -10}
+        - {x: -7, y: -10}
+        - {x: -7, y: -10}
+        - {x: -8, y: -11}
+        - {x: -8, y: -13}
+        - {x: -7, y: -15}
+        - {x: 6, y: -15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25875e9772ad842f4b945c564a4c8350
+      internalID: -440904739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stool_tile
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 464
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 7, y: -13}
+        - {x: 7, y: -9}
+        - {x: 4, y: -6}
+        - {x: -4, y: -6}
+        - {x: -7, y: -9}
+        - {x: -7, y: -13}
+        - {x: -5, y: -15}
+        - {x: 5, y: -15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976397cb5410c40af96ec965e7216afb
+      internalID: 817794573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: table_tile
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 464
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -15}
+        - {x: 9, y: -11}
+        - {x: 6, y: -7}
+        - {x: -6, y: -7}
+        - {x: -9, y: -11}
+        - {x: -6, y: -15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c7fe576ac25470a86faa7958a89308
+      internalID: 479812505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcade1_bottom
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 504
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 10, y: -1}
+        - {x: 10, y: 16}
+        - {x: -10, y: 16}
+        - {x: -10, y: -1}
+        - {x: 10, y: -1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 829a088393c77487b850e2471f329d4c
+      internalID: -1019066865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcade1_top
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 539
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 523b3ddef53ad49f0a3849a9414a11ad
-      internalID: -2087594022
+      spriteID: 5f593fbd5197c41ffb58b9997af27ef3
+      internalID: -1615363576
       vertices: []
       indices: 
       edges: []
@@ -295,11 +464,16 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
+      arcade1_bottom: -1019066865
+      arcade1_top: -1615363576
       door_left: -2087378046
       door_right: -8622947791817846895
       floor_tile: -7556140064182284360
       left_wall_tile: -1085390142
+      plant_tile: -440904739
       right_wall_tile: -530610890
+      stool_tile: 817794573
+      table_tile: 479812505
       temp_player_tile: -2087594022
       void_tile: 1909743447
       wall_tile: 4012135017574298484
