@@ -1,5 +1,6 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
+using UnityEngine.SceneManagement;
 using TMPro;
 
 public class PlayerInteraction : MonoBehaviour
@@ -55,4 +56,5 @@ public class PlayerInteraction : MonoBehaviour
             promptUI.interactable = v;
         }
     }
+    
 }

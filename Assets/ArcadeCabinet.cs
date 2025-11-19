@@ -25,7 +25,7 @@ public class ArcadeCabinet : MonoBehaviour, IInteractable
         //option that loads a minigame scene if provided
         if (!string.IsNullOrWhiteSpace(gameSceneName))
         {
-            SceneManager.LoadScene(gameSceneName, LoadSceneMode.Additive);
+            SceneManager.LoadScene(gameSceneName, LoadSceneMode.Single);
         }
 
     }
