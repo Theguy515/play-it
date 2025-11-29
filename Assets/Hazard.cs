@@ -4,7 +4,10 @@ using UnityEngine;
 public class Hazard : MonoBehaviour
 {
     [SerializeField] float lifetime = 6f;
+    [SerializeField] int scoreValue = 100;
+
     Rigidbody2D rb;
+    bool hitPlayer = false;
 
     void Awake()
     {
@@ -26,8 +29,19 @@ public class Hazard : MonoBehaviour
     {
         if(other.GetComponent<PlayerQuadMover>() != null)
         {
+            hitPlayer = true;
             var gc = FindFirstObjectByType<GameController>();
             gc?.GameOver();
+        }
+    }
+
+    void OnDestroy()
+    {
+        // If this hazard disappeared without killing the player,
+        // award points.
+        if (!hitPlayer && ScoreManager.Instance != null)
+        {
+            ScoreManager.Instance.AddScore(scoreValue);
         }
     }
 }

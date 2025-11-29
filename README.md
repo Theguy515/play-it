@@ -35,3 +35,5 @@ Development Timeline
 -11/3/25 - Player movement system added, Camera system that follows the player added, player collider added
 -11/5/25 - First Props have been created and added (Arcade cabinet, stool, table, plant), first arcade cabients placed for later use
 -11/11/25 - New temporary player sprite added, arcade cabinet prefab has been made, interaction prompt created with highlight system
+-11/19/25 - First minigame Dodge It! added, scene management added
+11/29/25 - Second minigame Defense! added, score management system added, arcade lobby shrunk
