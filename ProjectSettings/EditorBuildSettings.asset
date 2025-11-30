@@ -17,6 +17,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Defense.unity
     guid: 9476893f7e67e40b8b8a2daa4842ec9a
+  - enabled: 1
+    path: Assets/Scenes/Maze_runner.unity
+    guid: 891bb7042e97b48eda160572cea031d1
+  - enabled: 1
+    path: Assets/Scenes/Fisher.unity
+    guid: 748508ee3c1954685b89f851b87ed7ea
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0

@@ -46,3 +46,5 @@ Development Timeline
 - 11/29/25 - Second minigame Defense! added, score management system added, arcade lobby shrunk
 
 - 11/30/25 - Third minigame Fisher added, lobby scene updated
+
+- 11/30/25 - Fourth minigam Maze Runner added, bug fixes implemented to previous games
