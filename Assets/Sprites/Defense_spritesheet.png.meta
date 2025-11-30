@@ -280,7 +280,7 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -289,6 +289,50 @@ TextureImporter:
       bones: []
       spriteID: 5d6c02e8de8eb4fbfa083a40279d676c
       internalID: -29035467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defense_cabinet_top
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 554
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15cd506513f1940acaaec426345dd488
+      internalID: 385386387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defense_cabinet_bottom
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 519
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d4244f6a58241eb8cdf3bd2fce1a2c
+      internalID: -2080349627
       vertices: []
       indices: 
       edges: []
@@ -309,6 +353,8 @@ TextureImporter:
     nameFileIdTable:
       Cannon_head_sprite: 6227888514714700414
       Defense_alien: -29035467
+      Defense_cabinet_bottom: -2080349627
+      Defense_cabinet_top: 385386387
       Defense_spritesheet_3: 1658741054380001541
       Defense_spritesheet_4: 6990705624637169255
       cannon_base_sprite: -4511986983192580294

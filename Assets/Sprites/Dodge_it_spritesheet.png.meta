@@ -371,6 +371,50 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Dodge_it_cabinet_bottom
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 238
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20917c313fb3480fbd4dff231603e0d
+      internalID: -1966729075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodge_it_cabinet_top
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 273
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 244c77b13d1964460905a3dbbaa5448e
+      internalID: 1058300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
@@ -385,6 +429,8 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
+      Dodge_it_cabinet_bottom: -1966729075
+      Dodge_it_cabinet_top: 1058300042
       Dodge_it_spritesheet_10: -343712236384398238
       Dodge_it_spritesheet_2: -1655225943399136602
       Dodge_it_spritesheet_3: -2503277797943466305

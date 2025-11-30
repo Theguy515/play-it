@@ -481,7 +481,7 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -490,6 +490,160 @@ TextureImporter:
       bones: []
       spriteID: eb8a9325cc49941e2a1b26a45752ddee
       internalID: -1904639563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prize_counter_1
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 679
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b7225e2331c4562ab065d7e85b43f5
+      internalID: -1020383921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prize_counter_2
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 679
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b0aed2488b6c492e8233106142717b0
+      internalID: -1000442066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prize_counter_3
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 679
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8efa49158f1bf40bdb431630ae6f7f14
+      internalID: -337305597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prizes_1
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 417
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a12afddc98f5418d8ebad9c596bc6a8
+      internalID: 5263615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prizes_2
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 417
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14190cb4ead92410ab8ce99f0947553a
+      internalID: 263975689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glass_door
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 623
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 824448f2ab01e4f208f02427ed13db9c
+      internalID: 1839174364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: window_wall
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 623
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: accbd5fae330d404a8d272e37353259d
+      internalID: -530116807
       vertices: []
       indices: 
       edges: []
@@ -513,16 +667,23 @@ TextureImporter:
       door_left: -2087378046
       door_right: -8622947791817846895
       floor_tile: -7556140064182284360
+      glass_door: 1839174364
       highlighed_cabinet_tile: 269506150
       left_wall_tile: -1085390142
       plant_tile: -440904739
       player_temp_tile_2: -1904639563
+      prize_counter_1: -1020383921
+      prize_counter_2: -1000442066
+      prize_counter_3: -337305597
+      prizes_1: 5263615
+      prizes_2: 263975689
       right_wall_tile: -530610890
       stool_tile: 817794573
       table_tile: 479812505
       temp_player_tile: -2087594022
       void_tile: 1909743447
       wall_tile: 4012135017574298484
+      window_wall: -530116807
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

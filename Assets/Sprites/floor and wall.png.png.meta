@@ -1,0 +1,716 @@
+fileFormatVersion: 2
+guid: d4f1112f8e7794477bc517343edcd655
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7504486947379193838
+    second: floor and wall.png_0
+  - first:
+      213: -8299731304462237739
+    second: floor and wall.png_1
+  - first:
+      213: 5922408418633930443
+    second: floor and wall.png_2
+  - first:
+      213: -4341192534261117213
+    second: floor and wall.png_3
+  - first:
+      213: -1156880637255837818
+    second: floor and wall.png_4
+  - first:
+      213: -1456542630759596721
+    second: floor and wall.png_5
+  - first:
+      213: -3184685449574593153
+    second: floor and wall.png_6
+  - first:
+      213: 3136982103025833000
+    second: floor and wall.png_7
+  - first:
+      213: 3004100548503022543
+    second: floor and wall.png_8
+  - first:
+      213: 4445358395650113831
+    second: floor and wall.png_9
+  - first:
+      213: 7879861611668287824
+    second: floor and wall.png_10
+  - first:
+      213: 8120700542957461791
+    second: floor and wall.png_11
+  - first:
+      213: -7006724691710819266
+    second: floor and wall.png_12
+  - first:
+      213: 108966736007665279
+    second: floor and wall.png_13
+  - first:
+      213: -1293437445310572463
+    second: floor and wall.png_14
+  - first:
+      213: -6111543874421094309
+    second: floor and wall.png_15
+  - first:
+      213: -8117774196321102525
+    second: floor and wall.png_16
+  - first:
+      213: 5334243137915521727
+    second: floor and wall.png_17
+  - first:
+      213: 4056102771825478692
+    second: floor and wall.png_18
+  - first:
+      213: 7373084944339054864
+    second: floor and wall.png_19
+  - first:
+      213: -350736538626342294
+    second: floor and wall.png_20
+  - first:
+      213: -1173828835039943951
+    second: floor and wall.png_21
+  - first:
+      213: 4177585559707433735
+    second: floor and wall.png_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: floor and wall.png_0
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 720
+        width: 102
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee7a7104e1b452860800000000000000
+      internalID: 7504486947379193838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor and wall.png_1
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 681
+        width: 98
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dfb65a3a5e61dc80800000000000000
+      internalID: -8299731304462237739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor and wall.png_2
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 625
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc65577141f903250800000000000000
+      internalID: 5922408418633930443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor and wall.png_3
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 625
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eec9c5046cf0c3c0800000000000000
+      internalID: -4341192534261117213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor and wall.png_4
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 625
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68796d8903fe1ffe0800000000000000
+      internalID: -1156880637255837818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor and wall.png_5
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 625
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4d7c55c13259cbe0800000000000000
+      internalID: -1456542630759596721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor and wall.png_6
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 625
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d40c0f479bdc3d0800000000000000
+      internalID: -3184685449574593153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor and wall.png_7
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 625
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 824dc9d2a9cc88b20800000000000000
+      internalID: 3136982103025833000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor and wall.png_8
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 584
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcb241f4885b0b920800000000000000
+      internalID: 3004100548503022543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor and wall.png_9
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 584
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 721860888e511bd30800000000000000
+      internalID: 4445358395650113831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor and wall.png_10
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 584
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 051b9b2f264ea5d60800000000000000
+      internalID: 7879861611668287824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor and wall.png_11
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 545
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f112d465e1682b070800000000000000
+      internalID: 8120700542957461791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor and wall.png_12
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 540
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e344e9f140d13ce90800000000000000
+      internalID: -7006724691710819266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor and wall.png_13
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 503
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7612184ba0238100800000000000000
+      internalID: 108966736007665279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor and wall.png_14
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 504
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15813151f79cc0ee0800000000000000
+      internalID: -1293437445310572463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor and wall.png_15
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 504
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b588aeff93f6f2ba0800000000000000
+      internalID: -6111543874421094309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor and wall.png_16
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 505
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 345d275d06fd75f80800000000000000
+      internalID: -8117774196321102525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor and wall.png_17
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 465
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fba05053fd9070a40800000000000000
+      internalID: 5334243137915521727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor and wall.png_18
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 465
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42c82271bfb2a4830800000000000000
+      internalID: 4056102771825478692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor and wall.png_19
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 465
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0113c1e41b5725660800000000000000
+      internalID: 7373084944339054864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor and wall.png_20
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 467
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a624d65f9fee12bf0800000000000000
+      internalID: -350736538626342294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor and wall.png_21
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 465
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f2655cc4e8b5bfe0800000000000000
+      internalID: -1173828835039943951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor and wall.png_22
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 418
+        width: 68
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70bb929cee3c9f930800000000000000
+      internalID: 4177585559707433735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5a4fbbb6961754e5c81dc3521c59f6fd
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      floor and wall.png_0: 7504486947379193838
+      floor and wall.png_1: -8299731304462237739
+      floor and wall.png_10: 7879861611668287824
+      floor and wall.png_11: 8120700542957461791
+      floor and wall.png_12: -7006724691710819266
+      floor and wall.png_13: 108966736007665279
+      floor and wall.png_14: -1293437445310572463
+      floor and wall.png_15: -6111543874421094309
+      floor and wall.png_16: -8117774196321102525
+      floor and wall.png_17: 5334243137915521727
+      floor and wall.png_18: 4056102771825478692
+      floor and wall.png_19: 7373084944339054864
+      floor and wall.png_2: 5922408418633930443
+      floor and wall.png_20: -350736538626342294
+      floor and wall.png_21: -1173828835039943951
+      floor and wall.png_22: 4177585559707433735
+      floor and wall.png_23: -528528366
+      floor and wall.png_3: -4341192534261117213
+      floor and wall.png_4: -1156880637255837818
+      floor and wall.png_5: -1456542630759596721
+      floor and wall.png_6: -3184685449574593153
+      floor and wall.png_7: 3136982103025833000
+      floor and wall.png_8: 3004100548503022543
+      floor and wall.png_9: 4445358395650113831
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
