@@ -277,7 +277,7 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -299,7 +299,7 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -308,6 +308,50 @@ TextureImporter:
       bones: []
       spriteID: 4a19bdf9994864af78bfd3c518617912
       internalID: -2035380457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeFall_cabinet_top
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 517
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31f9683e7992481c9120f2a1581ddb6
+      internalID: -1607263473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeFall_cabinet_bottom
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 483
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1444c4963bc54485fa40b89316e8c5bc
+      internalID: 1334575316
       vertices: []
       indices: 
       edges: []
@@ -326,6 +370,8 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
+      FreeFall_cabinet_bottom: 1334575316
+      FreeFall_cabinet_top: -1607263473
       bobber: -755798473
       dock_tile: 22560590604423400
       dock_tile_main: -282298387505510870
