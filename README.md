@@ -5,30 +5,38 @@ A 2D top-down arcade game collection Unity project built by Jordan Andrews and G
 ---
 
 Features
-- Custom tilemaps/art
-- Lobby scene setup
-- Arcade-style sprites
-- Unity URP 2D rendering
+- Custom 2D pixel art + tilemaps (built in Pixelorama)
+- Arcade lobby hub scene
+- Interactable arcade cabinets
+- Multiple arcade style mini games
+- Arcade-style sprites and spritesheets
+- Unity URP 2D renderer setup
 
 ---
 
 Tech Stack
 - Engine: Unity
 - Language: C#
-- Version Control: GitHub
+- Version Control: Git + GitHub
 - Pixelorama
-- 
+  
 ---
 
 Getting Started
 
+Requirements: 
+- Unity Hub
+- Unity Editor (6000.2.8f1 or newer)
+
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Play-it.git
+   git clone https://github.com/yourusername/play-it.git
    ```
 
-2. In the Unity Hub, use the option "Add project from disk"
+2. In the Unity Hub, click the "Add" dropdown, then choose "Add project from disk" and choose the cloned repository folder
 3. Open project
+4. Open Assets/Scenes/Lobby and press the play button
+   
 ---
 
 Development Timeline
@@ -48,3 +56,7 @@ Development Timeline
 - 11/30/25 - Third minigame Fisher added, lobby scene updated
 
 - 11/30/25 - Fourth minigam Maze Runner added, bug fixes implemented to previous games
+
+- 12/1/25 - 5th Minigame Jumper added
+
+- 12/3/25 - 6th Minigame Free fall added

@@ -27,11 +27,8 @@ EditorBuildSettings:
     path: Assets/Scenes/Jump_game_scene.unity
     guid: f20a340f4983073499826650c33ae944
   - enabled: 1
-    path: Assets/Scenes/CrossRoad.unity
-    guid: 61298067e3a4a7642b9efbd22adb388f
-  - enabled: 1
-    path: Assets/Scenes/MemoryLights.unity
-    guid: f9045205b9dd55145b759b5de4150abf
+    path: Assets/Scenes/Free_fall.unity
+    guid: d351884916f2a448d8a9dd9e3103c561
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
